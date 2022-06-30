@@ -1,4 +1,4 @@
-import 'package:dart_funco/dart_funco.dart';
+import 'package:dart_funco/funcoes.dart';
 import 'package:test/test.dart';
 
 void main() {

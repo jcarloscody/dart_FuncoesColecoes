@@ -1,2 +1,11 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+## Funções e Parâmetros
+### Tipos de Parâmetros
+- nomeados
+  - obrigatório
+- obrigatório
+- opcional: devem ser os últimos sempre
+
+### Funções tipos
+- arrow
+- anonimas
+- typedef
