@@ -9,3 +9,8 @@
 - arrow
 - anonimas
 - typedef
+
+
+# Set
+- é identico a lista
+- não permite valores duplicados
